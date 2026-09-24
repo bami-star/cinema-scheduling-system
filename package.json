@@ -1,0 +1,16 @@
+{
+  "name": "cinema-scheduling-system",
+  "version": "1.0.0",
+  "description": "A cinima scheduling system built with React, Typescript, Express, Drizzle ORM, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
