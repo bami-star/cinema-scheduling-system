@@ -1,5 +1,5 @@
-# Cinima Scheudling System
-A cinima scheduling system built with React, Typescript, Express, Drizzle ORM, and PostgreSQL.
+# Cinema Scheudling System
+A cinema scheduling system built with React, Typescript, Express, Drizzle ORM, and PostgreSQL.
 
 ## Technologies
 React
